@@ -1,0 +1,29 @@
+baseURL = "https://gohugo.io/"
+author = "FriendsOfOxid - FOO"
+paginate = 3
+languageCode = "en"
+DefaultContentLanguage = "en"
+enableInlineShortcodes = true
+footnoteReturnLinkContents = "^"
+# Above are configs from hugoBasicExample
+
+title = "FriendsOfOxid - Foo"
+theme = "hugo-primer"
+hasCJKLanguage = true
+summaryLength = 140
+pygmentsCodeFences = true
+pygmentsUseClasses = true
+googleAnalytics = ""
+disqusShortname=""
+copyright = "&copy;FriendsOfOxid 2022"
+
+[params]
+description = "FriendsOfOxid - FOO Dev Community Site"
+twitter = "friendsofoxid"
+useIcon = true
+useTwitterCard = true
+# exampleSite must not have js share widget: #36
+# shareTo = ["Twitter", "Hatena", "Facebook", "Pocket"]
+shareTo = ["Twitter", "Facebook"]
+showFooterCredits = false
+math = true
