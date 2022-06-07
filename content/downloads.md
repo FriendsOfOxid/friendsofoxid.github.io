@@ -1,27 +1,45 @@
 +++
 title = "Downloads"
 description = "Download Oxid Artefacts or learn how to use Oxid with composer"
-date = "2022-06-01"
-aliases = ["about-us","about-hugo","contact"]
+date = "2022-05-31"
+aliases = ["download","download-oxid","downloads"]
 author = "Foo"
 menu = "main"
 weight = 200
 +++
 
-Written in Go, Hugo is an open source static site generator available under the [Apache Licence 2.0.](https://github.com/gohugoio/hugo/blob/master/LICENSE) Hugo supports TOML, YAML and JSON data file types, Markdown and HTML content files and uses shortcodes to add rich content. Other notable features are taxonomies, multilingual mode, image processing, custom output formats, HTML/CSS/JS minification and support for Sass SCSS workflows.
+## Oxid version 6.4.2
+(latest version, published 2022-05-31
 
-Hugo makes use of a variety of open source projects including:
+---
 
-* <https://github.com/russross/blackfriday>
-* <https://github.com/alecthomas/chroma>
-* <https://github.com/muesli/smartcrop>
-* <https://github.com/spf13/cobra>
-* <https://github.com/spf13/viper>
+### Installation via composer
 
-Hugo is ideal for blogs, corporate websites, creative portfolios, online magazines, single page applications or even a website with thousands of pages.
+* Connect to your web server via SSH.
+* Move to the doc root directory and use the following command: `composer create-project --no-dev oxid-esales/oxideshop-project my_oxid_eshop_project dev-b-6.4-ce`
 
-Hugo is for people who want to hand code their own website without worrying about setting up complicated runtimes, dependencies and databases.
+*or*
 
-Websites built with Hugo are extremelly fast, secure and can be deployed anywhere including, AWS, GitHub Pages, Heroku, Netlify and any other hosting provider.
+### Manual installation
 
-Learn more and contribute on [GitHub](https://github.com/gohugoio).
+It is also possible to download, decompress and upload prepared artefacts. Take care you use the right artefact for the PHP version you use on your server:
+
+* <https://github.com/FriendsOfOxid/Oxid-CE-artefacts/archive/refs/tags/v6.4.2_PHP8.0_001.tar.gz>
+* <https://github.com/FriendsOfOxid/Oxid-CE-artefacts/archive/refs/tags/v6.4.2_PHP7.4_001.tar.gz>
+
+---
+
+### Run setup
+
+* Map the top level domain of your web server to the directory *source/*.
+* Fire up your browser and point it to this domain.
+* Follow the steps of the setup routine.
+
+---
+
+### More ressources
+
+* [Documentation](https://docs.oxid-esales.com)
+* [Oxid on Github](https://github.com/OXID-esales/oxideshop_ce)
+* [Get help on FOO Slack](https://join.slack.com/t/oxid-dev/shared_invite/enQtNDY1MDU0MzA3ODI4LTM3NDNlOTVjNzBhMWE3NzJmNDY0NzE0NWZiMDNjYzViNGFlODdiZTg5ODU5NzAwMDI3NDViOWI5NGE0NGNlYTc)
+
