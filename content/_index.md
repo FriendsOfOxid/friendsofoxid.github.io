@@ -14,3 +14,12 @@ Thanks to the OOP (object oriented programming) architecture you’ll be able to
 Because Oxid is so simple to adapt, there will be a short time to market – Oxid is just e-commerce software for agencies with deadlines 🙂
 
 Oxid Community Edition is licensed under GPLv3. However, there are no technical restrictions nor limits - Oxid Community Edition just comes without warranty and vendor support
+
+## Live demo
+
+* [Storefront](https://ce:241518@demoshop.oxid-esales.com/community-edition)
+* [Administration panel](https://ce:241518@demoshop.oxid-esales.com/community-edition/admin/)
+
+## Screenshot
+
+![Oxid start page](Flow01-532x1030.png)
