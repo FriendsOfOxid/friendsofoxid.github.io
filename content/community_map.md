@@ -1,27 +1,34 @@
 +++
-title = "Community Map"
-description = "Hugo, the world’s fastest framework for building websites"
+title = "FOO Community Map"
+description = "A map filled with people being involved in Oxid development."
 date = "2022-06-04"
-aliases = ["about-us","about-hugo","contact"]
-author = "Hugo Authors"
+aliases = ["community-map","foo-people","contact-freelancers"]
+author = "foo"
 menu = "main"
 weight = 300
 +++
 
-Written in Go, Hugo is an open source static site generator available under the [Apache Licence 2.0.](https://github.com/gohugoio/hugo/blob/master/LICENSE) Hugo supports TOML, YAML and JSON data file types, Markdown and HTML content files and uses shortcodes to add rich content. Other notable features are taxonomies, multilingual mode, image processing, custom output formats, HTML/CSS/JS minification and support for Sass SCSS workflows.
+A map filled with people being involved in Oxid development. Hosted on GitHub, which allows everyone to add their map entries. ♥ Join us!
 
-Hugo makes use of a variety of open source projects including:
+👉 __https://friendsofoxid.github.io/community-map/__
 
-* <https://github.com/russross/blackfriday>
-* <https://github.com/alecthomas/chroma>
-* <https://github.com/muesli/smartcrop>
-* <https://github.com/spf13/cobra>
-* <https://github.com/spf13/viper>
+![Screenshot](https://raw.githubusercontent.com/FriendsOfOxid/community-map/master/assets/john_doe.png)
 
-Hugo is ideal for blogs, corporate websites, creative portfolios, online magazines, single page applications or even a website with thousands of pages.
+The screenshot above shows what user entries look like. You’ll even get your own URL for your entry, which is awesome! Look, this is a [link to Rüdiger](https://friendsofoxid.github.io/community-map/#gn2).
 
-Hugo is for people who want to hand code their own website without worrying about setting up complicated runtimes, dependencies and databases.
+## How to add and manage your entry?
 
-Websites built with Hugo are extremelly fast, secure and can be deployed anywhere including, AWS, GitHub Pages, Heroku, Netlify and any other hosting provider.
+You can add your marker to the map and manage your data by yourself. Learn about [three ways how to manage your entry](https://github.com/FriendsOfOxid/community-map/tree/master/_directory)! 🚀
 
-Learn more and contribute on [GitHub](https://github.com/gohugoio).
+## Who’s the map for?
+
+The map is for any person being involved in Oxid: developers, users, editors, writers, designers, translators, friends and family et al. It’s about visualizing Friends of Oxid. If you use or support Oxid, the map is for you!
+
+And of course, as someone who needs personal and commercial help by somebody who is right around your corner, please feel free to look this map up and to connect to the brave lads!
+
+## What else?
+
+Many thanks to the REDAXO community for supporting us with this great piece of software! 
+
+You should join their Slack chat. It’s full of nice REDAXO people! ✌️  
+Provide your email to receive an invitation: https://redaxo.org/slack/
