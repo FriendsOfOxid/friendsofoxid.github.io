@@ -1,5 +1,5 @@
 ---
-title: "FOO Home"
+title: "Home"
 type: "top"
 menu: "main"
 weight: 100

@@ -22,10 +22,7 @@ weight = 200
 
 ### Manual installation
 
-It is also possible to download, decompress and upload prepared artefacts. Take care you use the right artefact for the PHP version you use on your server:
-
-* <https://github.com/FriendsOfOxid/Oxid-CE-artefacts/archive/refs/tags/v6.4.2_PHP8.0_001.tar.gz>
-* <https://github.com/FriendsOfOxid/Oxid-CE-artefacts/archive/refs/tags/v6.4.2_PHP7.4_001.tar.gz>
+It is also possible to download, decompress and upload [prepared artefacts](https://github.com/FriendsOfOxid/Oxid-CE-artefacts/releases). Take care you use the right artefact for the PHP version you use on your server.
 
 ---
 
